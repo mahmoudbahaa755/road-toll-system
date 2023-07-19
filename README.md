@@ -8,6 +8,8 @@ The Road Toll System is a application for managing toll collection on highways u
   4. Automatic toll calculation based on vehicle type 
   5. Integrated payment gateway for seamless transactions.
   6. User authentication and role-based access control for enhanced security.
+### How it Works:
+The Road Toll System uses AI models to automatically detect the type of vehicle passing through the toll booth. It then calculates the appropriate toll based on the vehicle type and owner. Toll booth operators can easily log in to the system and monitor the real-time tracking of vehicles entering and exiting the toll booth.
 
 ### License
 This project is licensed under the MIT License. For more information, see the LICENSE file.
