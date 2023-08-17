@@ -11,5 +11,17 @@ The Road Toll System is a application for managing toll collection on highways u
 ### How it Works:
 The Road Toll System uses AI models to automatically detect the type of vehicle passing through the toll booth. It then calculates the appropriate toll based on the vehicle type and owner. Toll booth operators can easily log in to the system and monitor the real-time tracking of vehicles entering and exiting the toll booth.
 
+
+### other team members:
+  - (Machine Learning engineer)
+  - 
+  -[Nourhan Abosaeed](https://github.com/ahmedrashed) (Machine Learning engineer)
+  -[Ahmed Gamal](https://github.com/ahmedrashed) (Machine Learning engineer)
+  -[Ahmed Rashed](https://github.com/ahmedrashed) (embedded system)
+  -[Ahmed Roshdi](https://github.com/ahmedrashed) (backend)
+  -[Mina Maher](https://github.com/ahmedrashed) (mobile)
+  - 
+ 
+
 ### License
 This project is licensed under the MIT License. For more information, see the LICENSE file.
