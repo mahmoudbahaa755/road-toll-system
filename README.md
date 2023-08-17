@@ -20,8 +20,8 @@ The Road Toll System uses AI models to automatically detect the type of vehicle 
 ### team members:
   1.[Nourhan Abosaeed](https://github.com/nourhan412) (Machine Learning engineer).<br>
   2.[Ahmed Gamal](https://github.com/ahmedgamal1254) (Machine Learning engineer).<br>
-  3.[Ahmed Rashed](https://github.com/ahmedrashed) (embedded system).<br>
-  4.[Ahmed Roshdi](https://github.com/ahmedrashed) (backend).<br>
+  3.[Ahmed Rashed](https://github.com/ahmedrashed) (backend).<br>
+  4.[Ahmed Roshdi](https://github.com/ahmedrashed) (embedded system).<br>
   5.[Mina Maher](https://github.com/ahmedrashed) (mobile).<br>
 ### other half of the code :
  [deployment and rest of other models](https://github.com/nourhan412/JANUS_Automated_Road_Gates_System--Graduation_Project).
