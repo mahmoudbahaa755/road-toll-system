@@ -22,7 +22,7 @@ The Road Toll System uses AI models to automatically detect the type of vehicle 
   2.[Ahmed Gamal](https://github.com/ahmedgamal1254) (Machine Learning engineer).<br>
   3.[Ahmed Rashed](https://github.com/Ahmed1Rashed) (backend).<br>
   4.[Mina Maher](https://github.com/mina0maher)==> [desktop code](https://github.com/mina0maher/janus-desktop-app)
- , [mobile code](https://github.com/mina0maher/janus-gates)
+ , [mobile code](https://github.com/mina0maher/janus-gates) , [arduino code](https://github.com/mina0maher/janus-arduino ) 
   .<br>
   5.[Ahmed Roshdi](https://github.com/ahmedrashed) (embedded system).<br>
 ### other half of AI code :
