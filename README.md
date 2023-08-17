@@ -1,4 +1,5 @@
 # road-toll-system (Graduition Project)
+![Image Description](https://github.com/nourhan412/JANUS_Automated_Road_Gates_System--Graduation_Project/blob/main/images/maquette.jpg)
 The Road Toll System is a application for managing toll collection on highways using AI models. It provides an efficient and automated way to collect tolls from vehicles passing through toll booths.
 ![Image Description](https://github.com/mahmoudbahaa755/road-toll-system/blob/main/main%20pipeline.jpg)
 ### Features:
@@ -13,14 +14,12 @@ The Road Toll System uses AI models to automatically detect the type of vehicle 
 
 
 ### other team members:
-  - (Machine Learning engineer)
-  - 
-  -[Nourhan Abosaeed](https://github.com/ahmedrashed) (Machine Learning engineer)
-  -[Ahmed Gamal](https://github.com/ahmedrashed) (Machine Learning engineer)
-  -[Ahmed Rashed](https://github.com/ahmedrashed) (embedded system)
-  -[Ahmed Roshdi](https://github.com/ahmedrashed) (backend)
-  -[Mina Maher](https://github.com/ahmedrashed) (mobile)
-  - 
+
+  1.[Nourhan Abosaeed](https://github.com/ahmedrashed) (Machine Learning engineer)
+  2.[Ahmed Gamal](https://github.com/ahmedrashed) (Machine Learning engineer)
+  3.[Ahmed Rashed](https://github.com/ahmedrashed) (embedded system)
+  4.[Ahmed Roshdi](https://github.com/ahmedrashed) (backend)
+  5.[Mina Maher](https://github.com/ahmedrashed) (mobile)
  
 
 ### License
